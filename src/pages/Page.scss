@@ -1,0 +1,12 @@
+.page {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  &-empty {
+    padding-top: 25px;
+    color: #dcdedf;
+    font-size: 32px;
+    font-weight: 500;
+    line-height: 100%;
+  }
+}

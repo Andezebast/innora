@@ -1,0 +1,20 @@
+.tabs {
+  padding-top: 50px;
+  margin-bottom: 25px;
+  border-bottom: 4px solid #1a9fff;
+  display: flex;
+  justify-content: center;
+  .tab {
+    color: #dcdedf;
+    font-size: 24px;
+    font-weight: 500;
+    line-height: 100%;
+    padding: 10px 20px;
+    text-decoration: unset;
+    &.active {
+      background-color: #1a9fff;
+      border-top-left-radius: 10px;
+      border-top-right-radius: 10px;
+    }
+  }
+}
