@@ -23,4 +23,20 @@ export const todoList = [
     id: 6,
     todo: "to-do 6",
   },
+  {
+    id: 7,
+    todo: "to-do 7",
+  },
+  {
+    id: 8,
+    todo: "to-do 8",
+  },
+  {
+    id: 9,
+    todo: "to-do 9",
+  },
+  {
+    id: 10,
+    todo: "to-do 10",
+  },
 ];
