@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/innora/static/css/main.0f8f1203.css",
-    "main.js": "/innora/static/js/main.64f813e3.js",
+    "main.js": "/innora/static/js/main.6f2b4e30.js",
     "index.html": "/innora/index.html",
     "main.0f8f1203.css.map": "/innora/static/css/main.0f8f1203.css.map",
-    "main.64f813e3.js.map": "/innora/static/js/main.64f813e3.js.map"
+    "main.6f2b4e30.js.map": "/innora/static/js/main.6f2b4e30.js.map"
   },
   "entrypoints": [
     "static/css/main.0f8f1203.css",
-    "static/js/main.64f813e3.js"
+    "static/js/main.6f2b4e30.js"
   ]
 }
